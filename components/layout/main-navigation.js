@@ -12,9 +12,7 @@ function MainNavigation() {
   return (
     <header className={classes.header}>
       <Link href="/">
-        <a>
           <div className={classes.logo}>Dashboard</div>
-        </a>
       </Link>
       <nav>
         <ul>
